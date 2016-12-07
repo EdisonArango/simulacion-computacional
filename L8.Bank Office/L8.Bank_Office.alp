@@ -7,7 +7,7 @@
 <AnyLogicWorkspace WorkspaceVersion="1.9" AnyLogicVersion="7.3.6.201610041855" AlpVersion="7.3.3">
 <Model>
 	<Id>1475165158308</Id>
-	<Name><![CDATA[L8.Bank]]></Name>
+	<Name><![CDATA[L8]]></Name>
 	<EngineVersion>6</EngineVersion>
 	<JavaPackageName><![CDATA[banco_parte_4]]></JavaPackageName>
 	<ModelTimeUnit><![CDATA[Minute]]></ModelTimeUnit>
@@ -2717,12 +2717,6 @@ getPresentation().setPresentable( getEngine().getRoot() );]]></ActionCode>
 		<LibraryName><![CDATA[com.anylogic.libraries.processmodeling]]></LibraryName>
 		<VersionMajor>7</VersionMajor>
 		<VersionMinor>2</VersionMinor>
-		<VersionBuild>0</VersionBuild>
-    </RequiredLibraryReference>
-    <RequiredLibraryReference>
-		<LibraryName><![CDATA[banco]]></LibraryName>
-		<VersionMajor>0</VersionMajor>
-		<VersionMinor>0</VersionMinor>
 		<VersionBuild>0</VersionBuild>
     </RequiredLibraryReference>
 </Model>
